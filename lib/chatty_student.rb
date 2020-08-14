@@ -1,2 +1,5 @@
 class ChattyStudent 
-  def hello 
+  def hello
+    super
+  end 
+  
